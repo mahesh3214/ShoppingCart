@@ -1,4 +1,4 @@
-package com.shoppingCart.example.projectApp.AdminController;
+package com.shoppingCart.example.AdminController;
 
 import org.springframework.web.bind.annotation.RestController;
 
